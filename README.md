@@ -4,7 +4,7 @@ Bdlpdf is a simple API written in GO and PHP that generates a PDF document from 
 
 EX:
 
-https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=**17014**
+https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto= **17014**
 
 ##Methods
 
