@@ -19,8 +19,8 @@ http://waifuai.dd-dns.de:801/bdlpdf/index.php
 ##Parameters
 
 * Id: The id of the document obtainable on the site https://www.bdl.servizirl.it
- * Id > 0
- * Obligatory parameter
+  * Id > 0
+  * Obligatory parameter
  
 * Pag: The number of pages to be obtained and inserted into the pdf document
  * **Default**: 'all'
