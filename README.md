@@ -6,7 +6,7 @@ EX:
 
 https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto= **17014**
 
-##Methods
+<h2>Methods</h2>
 
 You can only use the method via **GET**
 
