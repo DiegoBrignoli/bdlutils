@@ -62,7 +62,9 @@ func (d *Document) GetTitle(u string) error {
 	}
 
 	d.Title = fmt.Sprintf("%v", m2["title"])
-
+	d.Title = strings.Replace(d.Title, ",", "", -1)
+	d.Title = strings.Replace(d.Title, ".", "", -1)
+	
 	return nil
 }
 
